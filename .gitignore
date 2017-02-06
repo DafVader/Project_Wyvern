@@ -1,6 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
 # Compiled Object files
 *.slo
 *.lo
@@ -111,3 +116,14 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry.bin
+Saved/AutoScreenshot.png
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry.bin
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Saved/Logs/Project_Wyvern.log
+*.bin
+*.ini
