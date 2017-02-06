@@ -1,6 +1,6 @@
-Binaries/
-Intermediate/
-Saved/
+Binaries/*
+Intermediate/*
+Saved/*
 Project_Wyvern.opensdf
 Project_Wyvern.sdf
 Project_Wyvern.sln
